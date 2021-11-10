@@ -4,3 +4,14 @@
   border-radius: 4px;
   background: #fff;
 }
+.countries {
+  border: 1px solid red;
+  background-color: silver;
+  width: 300px;
+  height: 180px;
+}
+.country {
+  padding: 5px;
+  margin: 3px;
+  text-transform: none;
+}
